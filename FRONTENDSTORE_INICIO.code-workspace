@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../IMAGENES STORE/FrontEndStore_inicio/__MACOSX/FrontEndStore_inicio/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "frontendstore_inicio"
+	}
+}
